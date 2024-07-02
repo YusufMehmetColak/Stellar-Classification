@@ -1,6 +1,6 @@
 
 # Stellar Classification Dataset - SDSS17
-
+link to dataset: 'https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/data'
 ## Overview
 
 This project aims to classify stars, galaxies, and quasars based on their spectral characteristics using the Stellar Classification Dataset from the Sloan Digital Sky Survey DR17. Multiple machine learning classifiers were tested with various parameters to determine the most accurate model. The final model achieved an accuracy of 98%.
